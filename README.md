@@ -14,6 +14,4 @@
    * Matlab for Computervision and Image Processing  
   
 ## 📫 How to reach me:  
-    Feel free to Message me on Linkedin (Link in Profile) or per EMail: karsten.weikamp(at)alumni.fh-aachen.de  
-    
-
+    Feel free to Message me on Linkedin or per E-Mail (Links in Profile)
