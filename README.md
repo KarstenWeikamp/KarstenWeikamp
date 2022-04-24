@@ -9,10 +9,8 @@
    * Game Development  
  
 ## 🌱 I’m currently learning:  
-   * CPU12 Assembly  
    * C in Embedded Systems  
-   * Python  
-   * Matlab for Computervision and Image Processing  
+   * Python
   
 ## 📫 How to reach me:  
     Feel free to Message me on Linkedin or per E-Mail (Links in Profile)
