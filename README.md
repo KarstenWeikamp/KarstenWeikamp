@@ -4,7 +4,8 @@
    * Embedded Systems/Microcontrollers  
    * Automation in Industry 4.0  
         * IoT  
-        * AI in Automation and Embedded Systems  
+        * AI in Automation and Embedded Systems
+   * Image Processing and Computer Vision
    * Game Development  
  
 ## 🌱 I’m currently learning:  
