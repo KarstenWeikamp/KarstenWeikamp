@@ -6,11 +6,17 @@
         * IoT  
         * AI in Automation and Embedded Systems
    * Image Processing and Computer Vision
-   * Game Development  
+   * Game Development
  
-## 🌱 I’m currently learning:  
+## 🌱 I’m currently learning:
+   * Rust
    * C in Embedded Systems  
    * Python
+ 
+## ⚙️ I’ve worked with
+   * C and Zephyr RTOS
+   * MatLab and Simulink for Arduino
+   
   
 ## 📫 How to reach me:  
-    Feel free to Message me on Linkedin or per E-Mail (Links in Profile)
+    Feel free to Message me on LinkedIn or over E-Mail (Links in Profile)
